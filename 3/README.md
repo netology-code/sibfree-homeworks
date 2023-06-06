@@ -25,7 +25,7 @@
 
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [bWAPP](https://www.itsecgames.com/download.htm)
+1. [bWAPP](http://www.itsecgames.com/download.htm)
 2. [Debian](https://www.kali.org/get-kali/#kali-virtual-machines)
 3. [Дополнительная информация о bWAPP на англиском языке](http://itsecgames.blogspot.com)
 
@@ -33,7 +33,7 @@
 
 ### Задание 1: анализ уязвимостей OWASP
 
-1. Для выполнения работы запустите образы операционных систем на базе ОС [Debian](https://www.kali.org/get-kali/#kali-virtual-machines) и [bWAPP](www.itsecgames.com/download.htm).
+1. Для выполнения работы запустите образы операционных систем на базе ОС [Debian](https://www.kali.org/get-kali/#kali-virtual-machines) и [bWAPP](http://www.itsecgames.com/download.htm).
 2. Настройте сетевой доступ: Kali Linux — `192.168.0.1`, Bee-Box — `192.168.0.2`.
 3. Запустите Burp Suite. Включите проксирование.
 4. Получите доступ к сайту Bee-Box, открыв браузер в системе Kali Linux по адресу `192.168.0.2`. Логин и пароль для доступа: `bee/bug`. 
