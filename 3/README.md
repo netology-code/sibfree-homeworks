@@ -25,7 +25,7 @@
 
 ### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [bWAPP](www.itsecgames.com/download.htm)
+1. [bWAPP](https://www.itsecgames.com/download.htm)
 2. [Debian](https://www.kali.org/get-kali/#kali-virtual-machines)
 3. [Дополнительная информация о bWAPP на англиском языке](http://itsecgames.blogspot.com)
 
